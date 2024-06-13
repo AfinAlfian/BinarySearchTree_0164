@@ -22,7 +22,12 @@ public:
     Node* ROOT;
 
     BinaryTree() {
-        ROOT = nullptr; //Initializing ROOt to null
+        ROOT = nullptr; //Initializing ROOT to null
+    }
+
+    void insert(string element) // insert a node in the binary search tree
+    {
+
     }
 };
 
