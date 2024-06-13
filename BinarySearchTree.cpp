@@ -124,7 +124,11 @@ int main()
         cout << "3. Perform preorder traversal" << endl;
         cout << "4. Perform postorder traversal" << end;
         cout << "5. Exit" << end;
+        cout << "\nEnter yout coice (1-5) : ";
 
+        char ch;
+        cin >> ch;
+        cout << endl;
 
     }
 }
